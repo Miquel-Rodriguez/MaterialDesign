@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">MaterialDesignApp</string>
+    <string name="welcome_to_my_app">Welcome to my App</string>
+    <string name="login">Login</string>
+    <string name="username">UserName</string>
+    <string name="password">Password</string>
+    <string name="register">register</string>
+    <string name="forgot_password">forgot password</string>
+    <string name="repeat_password">repeat password</string>
+    <string name="email">email</string>
+    <string name="name">name</string>
+    <string name="surname">surname</string>
+    <string name="birth_date">birth date</string>
+    <string name="accept_terms_and_condition">Accept terms and condition</string>
+</resources>
